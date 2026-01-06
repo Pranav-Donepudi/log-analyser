@@ -1,7 +1,7 @@
 #include "core.h"
+#include <iostream>
 #include <cstring>
 #include <cctype>
-
 // Constructor
 LogAnalyzer::LogAnalyzer() {
     // All data structures are initialized by their constructors
